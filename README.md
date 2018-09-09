@@ -1,2 +1,8 @@
-# Datos-Tps
-Repo para los tps de Organizacion de Datos
+# Organizacion de Datos
+Segundo cuatrimestre 2018
+
+## Integrantes: ##
+
+Nombre y apellido  | Padron   | Mail
+-------------      | -------- | --------
+Canavese, Bautista | 99714    | bau.canavese@gmail.com
