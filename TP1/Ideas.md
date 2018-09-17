@@ -24,7 +24,10 @@ especializandome en Brazil.
 * Buscando una relacion entre eventos por escala de timpo, o algun patron de compra.
 
 ## Daniela
--
+- [x] Cantidad de ventas por mes desde Enero hasta Junio. Medición a partir del evento 'conversion'.
+- [x] Ver si el set de datos se encuentra ordenado. Desde que fecha hasta qué fecha hay datos,
+- [x] Según la columna 'model', verificar cual marca es la más vendida en todo el set de datos. Observar que esta columna, la primera palabra es la marca del dispositivo. 
+- Buscar algún tipo de patrón en los usuarios según los eventos que realizan. Ver que relación podría existir en ciertos eventos.
 
 ## Emanuel
 
