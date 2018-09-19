@@ -21,7 +21,9 @@ especializandome en Brazil.
 
 ## Emanuel
 
--
+-[x] Evolución de la cantidad de usuarios nuevos durante los meses Enero-Mayo.
+-[x] Evolución de ingresos al sitio a traves de campañas de marketing online Enero-Mayo.
+* Porcentaje de dispositivos usados para visitar el sitio.
 
 # Enunciado 
 
