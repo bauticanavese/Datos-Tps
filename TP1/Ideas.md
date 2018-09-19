@@ -2,17 +2,7 @@
 
 ## Santiago 
 
-1. De donde vienen las personas que son nuevas en el sitio (Eventos Ad Hit, visited site, search engine hit)? 
-Tal vez tambien analisar lo mismo para los q no son nuevos en el sitio, seguramente den cosas distintas y comparar 
-ambos (tal vez radar chart). 
-
-2. Mirar para cada modelo de producto, cual es el evento siguiente a 'viewed product' por mes. Analisar posibles falta 
-de stock periodicas de alguna marca o modelo en particular y preguntarse si hay un porque. 
-
-3. Mirar por mes, que modelo de celular se vendio mas. Tienen sentido los numeros teniendo en cuenta la proximidad de 
-nuevos lanzamientos (por ejemplo en Marzo o Febrero siempre salen los nuevos galaxys y en septiembre los iphones)? Los 
-modelos de menor renombre, se comportan igual que los de renombre (iphone, galaxy)? Trocafone baja los precios teniendo 
-en cuenta proximos lanzamientos de modelos nuevos?
+1. Modelos buscados por sistema operativo (analizar si la gente que tiene mac busca mas iphone que android, analogo con microsoft o linux / android).
 
 ## Bautista
 
