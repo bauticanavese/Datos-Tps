@@ -25,8 +25,9 @@ especializandome en Brazil.
 
 - [x] Evolución de la cantidad de usuarios nuevos durante los meses Enero-Mayo.
 - [x] Evolución de ingresos al sitio a traves de campañas de marketing online Enero-Mayo.
+- [x] Porcentaje de dispositivos usados para visitar el sitio.
 
-* Porcentaje de dispositivos usados para visitar el sitio.
+* Productos más comprados por pais-region.
 * Analisis de los terminos más buscados.
 * Buscando relación entre los productos más visitados y los que efectivamente son los más comprados.
 
