@@ -4,7 +4,8 @@
 
 1 . [x] BarPlot usuarios nuevos vs viejos.  
 2 . Modelos buscados por sistema operativo (analizar si la gente que tiene mac busca mas iphone que android, analogo con microsoft o linux / android).
-3 . [x] BarPlot channels. 
+3 . [x] BarPlot channels.
+4 . [x] BarPlot top 5 screen resolution de dispositivos que visitaron el sitio.
 
 ## Bautista
 
