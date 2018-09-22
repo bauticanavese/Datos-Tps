@@ -5,6 +5,7 @@
 1 . [x] BarPlot usuarios nuevos vs viejos.  
 2 . Modelos buscados por sistema operativo (analizar si la gente que tiene mac busca mas iphone que android, analogo con microsoft o linux / android).
 3 . [x] BarPlot channels.
+4 . [x] Grouped BarPlot para compras vs sin stock por mes.
 
 ## Bautista
 
