@@ -2,11 +2,11 @@
 
 ## Santiago 
 
-1 . [x] BarPlot usuarios nuevos vs viejos.  
-2 . Modelos buscados por sistema operativo (analizar si la gente que tiene mac busca mas iphone que android, analogo con microsoft o linux / android).
-3 . [x] BarPlot channels.
-4 . [x] Grouped BarPlot para compras vs sin stock por mes (de enero a abril, en mayo hay mucha diferencia).
-5 . [x] Cantidad de eventos por sistema operativo segun el browser
+- [x] BarPlot usuarios nuevos vs viejos.  
+- [x] BarPlot channels.
+- [x] Grouped BarPlot para compras vs sin stock por mes (de enero a abril, en mayo hay mucha diferencia).
+- [x] Cantidad de eventos por sistema operativo segun el browser
+- [x] Cantidad de Campaign Hits por Hora segun Campaign Source
 
 ## Bautista
 
