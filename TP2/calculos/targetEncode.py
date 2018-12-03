@@ -5,6 +5,7 @@ class TargetEncode:
     
     def __init__(self):
         pass
+    
     def __add_noise(self, series, noise_level):
         return series * (1 + noise_level * np.random.randn(len(series)))
 
@@ -41,14 +42,14 @@ class TargetEncode:
             trn_series.to_frame(trn_series.name),
             averages.reset_index().rename(columns={'index': target.name, target.name: 'average'}),
             on=trn_series.name,
-            how='left')['average'].rename(trn_series.name + '_mean').fillna(prior)
+            how='left')['average'].rename(trn_series.name + '_mean')
         # pd.merge does not keep the index so restore it
         ft_trn_series.index = trn_series.index 
         ft_tst_series = pd.merge(
             tst_series.to_frame(tst_series.name),
             averages.reset_index().rename(columns={'index': target.name, target.name: 'average'}),
             on=tst_series.name,
-            how='left')['average'].rename(trn_series.name + '_mean').fillna(prior)
+            how='left')['average'].rename(trn_series.name + '_mean')
         # pd.merge does not keep the index so restore it
         ft_tst_series.index = tst_series.index
         return self.__add_noise(ft_trn_series, noise_level), self.__add_noise(ft_tst_series, noise_level)
