@@ -2,9 +2,9 @@
 
 ## Instruciones
 <ul>
-<li> Correr PreparadoDeDatos-N.ipynb: genera los features por persona.
-<li> Correr Encode.ipynb: genera el set de entrenamiento/test.
-<li> Correr XGBoost.ipynb.
+<li> Dentro de "calculos" correr PreparadoDeDatos-N.ipynb: genera los features por persona.
+<li> Dentro de "calculos" correr Encode.ipynb: genera el set de entrenamiento/test.
+<li> Correr Submit Final.ipynb
 </ul>
 
 ## Requerimientos
