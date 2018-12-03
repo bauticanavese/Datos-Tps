@@ -1,4 +1,4 @@
-# TP2 - Competencia de ML
+# TP2 
 
 ## Instruciones
 <ul>
